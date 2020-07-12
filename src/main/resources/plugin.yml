@@ -1,7 +1,7 @@
 name: UhcHost
 version: 1.0
-author: GeekLegend
-main: fr.geeklegend.uhchost.Main
+author: Le monde de l'UHC
+main: fr.geeklegend.Main
 commands:
   say:
   save:

@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="891d624b-e9de-492a-8011-89563dfb3a1f" name="Default Changelist" comment="" />
+    <list default="true" id="891d624b-e9de-492a-8011-89563dfb3a1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/SlotInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/team/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/team/TeamManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/command/HostCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/command/HostCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/command/SaveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/command/SaveCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/command/SayCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/command/SayCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/command/manager/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/command/manager/CommandManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/config/ConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/config/ConfigManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/GameManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/preset/BingoPreset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/preset/TaupeGunPreset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/preset/Preset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/preset/Preset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/preset/PresetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/preset/PresetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/BackpackScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/BackpackScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/BareboneScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/BareboneScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/BloodDiamondScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/BloodDiamondScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/BloodEnchantScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/BloodEnchantScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/BowlessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/BowlessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/CoallessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/CoallessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/ColdWeaponScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/ColdWeaponScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/CutcleanScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/CutcleanScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/DiamondLessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/DiamondLessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/EnchantlessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/EnchantlessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/FirelessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/FirelessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/GoldlessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/GoldlessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/HorselessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/HorselessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/IronlessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/IronlessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/LimitationScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/LimitationScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/NineSlotScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/NineSlotScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/NoCleanScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/NoCleanScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/OpUhcScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/OpUhcScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/RodlessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/RodlessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/Scenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/Scenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/ScenarioManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/ScenarioManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/SharedHealthScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/SharedHealthScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/SoupScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/SoupScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/StatlessScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/StatlessScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/TimeBombScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/TimeBombScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/game/scenario/VanillaPlusScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/game/scenario/VanillaPlusScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/AnvilInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/AnvilInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/IInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/IInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/InventoryType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/InventoryType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/PresetInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/PresetInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/ScenarioInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/ScenarioInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/ScenarioViewInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/ScenarioViewInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/SettingInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/SettingInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory/manager/InventoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/inventory/manager/InventoryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/BlockBreakListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/BlockBreakListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/BlockPlaceListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/BlockPlaceListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/EntityDamageByEntityListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/EntityDamageByEntityListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/EntityDamageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/EntityDamageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/FoodLevelChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/FoodLevelChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/InventoryClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/InventoryClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/PlayerDropItemListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/PlayerDropItemListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/PlayerInteractListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/PlayerInteractListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/PlayerJoinListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/PlayerJoinListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/PlayerLoginListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/PlayerLoginListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/PlayerMoveListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/PlayerMoveListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/PlayerQuitListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/PlayerQuitListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/WeatherChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/WeatherChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/listener/manager/ListenerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/listener/manager/ListenerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/player/PlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/player/PlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/player/PlayerDataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/player/PlayerDataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scheduler/IScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scheduler/IScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scheduler/StartScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scheduler/StartScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scoreboard/ObjectiveSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scoreboard/ObjectiveSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scoreboard/PersonalScoreboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scoreboard/PersonalScoreboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scoreboard/ScoreboardManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scoreboard/ScoreboardManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scoreboard/ScoreboardTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scoreboard/ScoreboardTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/scoreboard/VObjective.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scoreboard/VObjective.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/server/HostRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/server/HostRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/server/ServerAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/server/ServerAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/server/ServerSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/server/ServerSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/InventoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/InventoryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/ItemBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/ItemBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/ParticleEffect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/ParticleEffect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/scoreboard/Reflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/Title.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/world/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/world/MapGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/world/WorldManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/geeklegend/world/WorldManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +100,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -24,6 +117,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1cwgGTL6i4RJiTGV809L9oJpfb2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,31 +127,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/inventory" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/server/1.8.8/plugins" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15820312" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.geeklegend.uhchost.listener" />
+      <recent name="fr.geeklegend.uhchost.command" />
+      <recent name="fr.geeklegend.uhchost.scoreboard" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.geeklegend.inventory" />
+      <recent name="fr.geeklegend.team" />
+      <recent name="fr.geeklegend.uhchost.inventory" />
+      <recent name="fr.geeklegend.uhchost.game.scenario" />
+      <recent name="fr.geeklegend.uhchost.scheduler" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\intellij-workspace\UhcHost\src\main\java\fr\geeklegend\uhchost\inventory" />
       <recent name="E:\intellij-workspace\UhcHost\src\main\java\fr\geeklegend\uhchost\scoreboard" />
       <recent name="E:\intellij-workspace\UhcHost\src\main\java\fr\geeklegend\uhchost\config" />
       <recent name="E:\intellij-workspace\UhcHost\src\main\java\fr\geeklegend\uhchost\util" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="fr.geeklegend.uhchost.inventory" />
-      <recent name="fr.geeklegend.uhchost.game.scenario" />
-      <recent name="fr.geeklegend.uhchost.scheduler" />
-      <recent name="fr.geeklegend.uhchost.command" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="fr.geeklegend.uhchost.listener" />
-      <recent name="fr.geeklegend.uhchost.command" />
-      <recent name="fr.geeklegend.uhchost.scoreboard" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,17 +193,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="608" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592053482393" />
-    <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591476483562">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="336" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594570790447">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="336" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1594570790447" />
     <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591476483562" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592680441345">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="552" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594575074758">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="552" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594575074758" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592680441345" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1592516353398">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="592" y="207" key="FileChooserDialogImpl" timestamp="1594572232266">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="592" y="207" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594572232266" />
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592516353398" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592330084032">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -123,9 +224,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592330084032" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1592516354903">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="352" y="0" key="SettingsEditor" timestamp="1594572234091">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="352" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594572234091" />
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592516354903" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1591468380712">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -143,20 +245,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591891981061" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1592696155873">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="493" y="190" width="538" height="537" key="run.anything.popup" timestamp="1594585694932">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="493" y="190" width="538" height="537" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594585694932" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592696155873" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/fr/geeklegend/uhchost/world/WorldManager.java</url>
-          <line>130</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
