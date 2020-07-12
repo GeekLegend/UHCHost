@@ -1,0 +1,10 @@
+name: UhcHost
+version: 1.0
+author: GeekLegend
+main: fr.geeklegend.uhchost.Main
+commands:
+  say:
+  save:
+  host:
+    aliases:
+      - h
